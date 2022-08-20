@@ -1,4 +1,4 @@
-### hi there 👋
+### hi 👋
 
 
 - 🔭 I’m currently working on ... "*it's a secret*"
