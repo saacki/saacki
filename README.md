@@ -1,7 +1,7 @@
 ### hi 👋
 
 
-- 🔭 I’m currently working on ... "*it's a secret*"
-- 📫 How to reach me: me@sachi.lk
+- 🔭 i’m currently working on ... "*it's a secret*"
+- 📫 reach me at: me@sachi.lk
 
 https://sachi.lk
